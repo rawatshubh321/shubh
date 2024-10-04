@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+.foot{
+    background-color: #333;
+    height: 80px;
+}
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-links {
+    display: flex;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .search-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-input {
+    padding: 8px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+  }
+  .search-button {
+    background-color: orange;
+    color: white;
+    padding: 8px 10px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  .one{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 100px;
+    padding-top: 100px;
+    color: white;
+  }
+  .two{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 100px;
+    color: orange;
+  }
+  .three{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 100px;
+    color: white;
+  }
+  .four{
+    padding-left: 100px;
+    color: white;
+  }
+  .five{
+    padding-left: 100px;
+  }
+  .middle{
+    background-image:url(images.jpeg);
+    background-size: cover;
+  }

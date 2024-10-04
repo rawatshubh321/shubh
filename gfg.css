@@ -1,0 +1,35 @@
+.div1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 1000px;
+    height: 1100px;
+    background-color:rgb(66, 198, 66);
+    margin: 0px auto;
+    border: 1px solid black;
+}
+
+.name{
+    width: 650px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+#div2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 150px;
+    margin-left: 150px;
+    border: 1px solid black;
+    height: 900px;
+    background-color: white;
+
+}
+.name2{
+    margin-left: 8px;
+}
+/*.submit{
+    font-size:larger;
+    width: 250px;
+    height: 30px;
+    text-align:center;
+    margin-left: 210px;
+    background-color: green;
+}*/

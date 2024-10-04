@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Animation</title>
+	<script>
+		function Bulb_OnOff() {
+			let image = document.getElementById('Image');
+			if (image.src.match("w1.png"))
+				image.src ="w2.avif";
+			else
+				image.src ="w1.png";
+		}
+	</script>
+</head>
+
+<body>
+
+	<img id="Image" onclick="Bulb_OnOff()" src="w1.png">
+
+	<p>
+		Click on the image to lift the weight
+
+	</p>
+
+</body>
+
+</html>
