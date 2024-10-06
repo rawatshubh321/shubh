@@ -1,0 +1,9 @@
+.outer{
+    min-height: 1px;
+}
+.inner{
+    min-height: 200px;
+}
+.size{
+    min-height: 200px;
+}
